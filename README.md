@@ -32,3 +32,8 @@ In this challenge, it was proposed to create a task list application to strength
 
     ```bash
     npm run dev
+
+## 👩‍💻 Usage
+
+https://github.com/AntoniofmBR/todo-list/assets/122809149/da444266-b1a5-4546-aa2a-6aaaf4992873
+
